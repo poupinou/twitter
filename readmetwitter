@@ -1,0 +1,13 @@
+salut salut!!
+
+bot_tweet:
+mon premier bot demande les cléfs api (tu doit mettre les tiennes)
+et ensuite il envoie juste un tweet.
+
+bot_the:
+le deuxieme demande aussi les cléfs 
+et ensuite il tris les tweets contenant les mot thé.
+
+bot_tweet2:
+lui demande les cléfs 
+et envoie 10 tweets toutes les 30 minutes.
